@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dristi Sapkota</h1>
 <h3 align="center">A passionate AI/ML enthusiastic from Nepal.</h3>
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=driisss&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 - 🔭 I’m currently working on **making deep learning models, kotlin, AI based app.**
 
 - 🌱 I’m currently learning **Interactive visualization (pandas, numpy, matplotlib)**
